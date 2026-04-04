@@ -1,4 +1,4 @@
-# waze-churn-prediction-ml# Waze Churn Prediction (Machine Learning Project)
+# Waze Churn Prediction (Machine Learning Project)
 
 # Project Overview
 
