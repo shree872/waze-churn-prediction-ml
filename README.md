@@ -13,6 +13,12 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 * Source: Waze dataset (Google Advanced Data Analytics Certificate)
 * Description: Contains user activity, engagement metrics, and behavioral data
 
+## 🧠 Modeling Approach
+
+This project includes multiple modeling approaches:
+1) Regression modeling: Logistic regression
+2) Random forest model
+
 # Key Insights from Analysis and Hypothesis Testing
 
 1) It was observed that drivers who use an iPhone device to interact with the application have a higher number of drives on average. However, this difference might arise from random sampling, rather than being a true difference in the number of drives. So, to assess whether the difference is statistically significant, I used a a two-sameple t-test.
@@ -50,10 +56,12 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 
 # Project Files
 
-* Notebook: - [📓 Notebook](notebooks/waze_churn_prediction_model.ipynb)
+* Notebook: [📓Notebook](notebooks/waze_churn_prediction_model.ipynb)
 
 * For detailed exploratory analysis and statistical testing:
 👉 [EDA & Statistical Analysis Project](notebooks/waze_churn_eda_and_statistical_analysis.ipynb)
+
+* [📓 Regression Model](notebooks/waze_churn_regression_model.ipynb)
 
 * Executive Summary: - [📄 Executive Summary](executive_summary.pdf)
 
