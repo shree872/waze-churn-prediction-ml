@@ -37,6 +37,9 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 # Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
+# Correlation heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 # Business Recommendations
 
 1) I would not recommend this model to be used to drive consequential business decisions. The model is not a strong enough predictor, as made clear by its poor recall score. However, if the model is only being used to guide further exploratory efforts, then it can have value.
