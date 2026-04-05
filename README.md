@@ -47,8 +47,12 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 
 # Project Files
 
-* Notebook: 
-* Executive Summary: 
+* Notebook: - [📓 Notebook](notebooks/waze_churn_prediction_model.ipynb)
+
+* For detailed exploratory analysis and statistical testing:
+👉 [EDA & Statistical Analysis Project](notebooks/waze_churn_eda_and_statistical_analysis.ipynb)
+
+* Executive Summary: - [📄 Executive Summary](executive_summary.pdf)
 
 # Tools & Technologies
 
