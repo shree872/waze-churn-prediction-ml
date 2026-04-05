@@ -30,7 +30,12 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 * Model Used: Random Forest (Cross validation)
 * Techniques: Feature Engineering, Model Training, Evaluation
 * Performance: precision->0.457163; recall->0.126782;	F1->0.198445;	accuracy->0.81851
-  
+
+# Model insights
+![Feature Importance](images/feature_importance.png)
+
+# Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
 
 # Business Recommendations
 
