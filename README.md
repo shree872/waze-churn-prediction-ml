@@ -13,7 +13,7 @@ The objective of this project is to help stakeholders at Waze identify high-risk
 * Source: Waze dataset (Google Advanced Data Analytics Certificate)
 * Description: Contains user activity, engagement metrics, and behavioral data
 
-## 🧠 Modeling Approach
+## Modeling Approach
 
 This project includes multiple modeling approaches:
 1) Regression modeling: Logistic regression
