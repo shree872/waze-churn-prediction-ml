@@ -59,7 +59,7 @@ This project includes multiple modeling approaches:
 * Notebook: [📓Notebook](notebooks/waze_churn_prediction_model.ipynb)
 
 * For detailed exploratory analysis and statistical testing:
-👉 [EDA & Statistical Analysis Project](https://github.com/shree872/waze_churn_eda_and_statistical_analysis)
+👉 [EDA & Statistical Analysis Project](https://github.com/shree872/waze-churn-eda-and-statistical-analysis/blob/main/notebooks/waze_churn_eda_analysis_and_hypothesis_testing.ipynb)
 
 * [📓 Regression Model](notebooks/waze_churn_regression_model.ipynb)
 
