@@ -63,7 +63,7 @@ This project includes multiple modeling approaches:
 
 * [📓 Regression Model](notebooks/waze_churn_regression_model.ipynb)
 
-* Executive Summary: - [📄 Executive Summary](executive_summary.pdf)
+* Executive Summary: [📄 Executive Summary](executive_summary.pdf)
 
 # Tools & Technologies
 
