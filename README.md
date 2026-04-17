@@ -6,7 +6,7 @@ This project focuses on predicting user churn using machine learning techniques.
 
 # Business Objective
 
-The objective of this project is to help stakeholders at Waze identify high-risk users and take proactive measures to reduce churn and improve customer retention.
+Helped stakeholders at Waze identify high-risk users and take proactive measures to reduce churn and improve customer retention.
 
 # Dataset
 
